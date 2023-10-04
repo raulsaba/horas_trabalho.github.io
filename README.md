@@ -1,4 +1,4 @@
-# Política de Privacidade do Aplicativo Contador de Horas de Trabalho
+# Política de Privacidade do Aplicativo - Horas de Trabalho
 
 Data de entrada em vigor: 04/10/2023
 
